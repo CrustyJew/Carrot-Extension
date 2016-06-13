@@ -67194,10 +67194,10 @@
 
 	module.exports = {
 		"manifest_version": 2,
-		"name": "Carrot: Chatrooms on Reddit",
+		"name": "Carrot - Chatrooms on Reddit",
 		"short_name": "Carrot.com",
 		"description": "Find chatrooms on subreddits. Use your reddit account. No sign-up required.",
-		"version": "2.6.5",
+		"version": "2.6.6",
 		"author": "Carrot",
 		"icons": {
 			"16": "img/icon__16.png",
